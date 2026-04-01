@@ -11,7 +11,7 @@ import requests
 # =========================================================
 # Configuración
 # =========================================================
-BASE_DIR = Path("/home/jcastillo/cgspace_outcomes_agent")
+BASE_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = BASE_DIR / "data"
 PDF_DIR = DATA_DIR / "pdfs"
 META_DIR = DATA_DIR / "metadata"
