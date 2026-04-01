@@ -4,7 +4,7 @@ from pathlib import Path
 import csv
 import fitz  # PyMuPDF
 
-BASE_DIR = Path("/home/jcastillo/cgspace_outcomes_agent")
+BASE_DIR = Path(__file__).resolve().parent.parent
 PDF_DIR = BASE_DIR / "data" / "pdfs"
 PROCESSED_DIR = BASE_DIR / "data" / "processed"
 LOGS_DIR = BASE_DIR / "data" / "logs"
