@@ -1,0 +1,84 @@
+THEME EXPLORER: Livelihoods, equity and inclusion
+==========================================================================================
+
+Theme key: livelihoods_equity
+Theme terms: ['livelihood', 'livelihoods', 'equity', 'equitable', 'inclusive', 'inclusion', 'poverty', 'income', 'well-being', 'wellbeing', 'justice', 'distributional equity']
+Document focus: Full corpus
+
+1. Quick reading
+------------------------------------------------------------------------------------------
+This theme is distributed across several documents, with the strongest evidence coming from Understanding_behavioral_changes_towards_agroecological_transitions_A_case_study_from_Mandla,_India.txt, Gaps_in_the_vision_to_action_process_conducted_in_Zimbabwe.txt, Synthesis_report_on_the_evidence_of_the_multifunctional_performance_of_LVB_landscape.txt.
+
+2. Top supporting documents
+------------------------------------------------------------------------------------------
+1. Understanding_behavioral_changes_towards_agroecological_transitions_A_case_study_from_Mandla,_India.txt | score=101
+2. Gaps_in_the_vision_to_action_process_conducted_in_Zimbabwe.txt | score=44
+3. Synthesis_report_on_the_evidence_of_the_multifunctional_performance_of_LVB_landscape.txt | score=33
+4. Policy_engagement_report_Institutionalizing_multifunctional_landscapes_in_Mbire_District,_Zimbabwe.txt | score=30
+5. Pathways_to_Sustainable_Wheat_Business_Models_Exploring_agroecological_practices_and_investment_opportunities_in_Doyogena,_Ethiopia.txt | score=24
+
+3. Key evidence excerpts
+------------------------------------------------------------------------------------------
+[1] Policy_engagement_report_Institutionalizing_multifunctional_landscapes_in_Mbire_District,_Zimbabwe.txt | page 10 | score=11
+Matched terms: [('livelihood', 4), ('equity', 1), ('inclusive', 2), ('inclusion', 4)]
+ndscape management. These forums foster cross-sector dialogue and joint accountability which are key attributes of AoW 4’s vision of polycentric governance. 3. Inclusion and agency enable institutional transformation: The engagement validated the MFL assumption that sustainable landscapes depend on inclusive governance (IPBES, 2019). The deliberate inclusion of women, youth, and marginalized groups responds directly to AoW 4’s requirement for fairness and participation in governance systems. It also enhances accountability and equity, aligning with the GEYSI. Strengthening agency at the local level ensures long-term institutional sustainability of MFL interventions. 4. Livelihood incentives bridge policy and practice: The introduction of livelihood enabling measures such as livestock insurance, small processing industries, and local markets reflects the recognition that environmental stewardship must coexist with economic viability. DanChurchAid further underscored the need for multi-p
+
+------------------------------------------------------------------------------------------
+
+[2] Gaps_in_the_vision_to_action_process_conducted_in_Zimbabwe.txt | page 30 | score=8
+Matched terms: [('livelihood', 3), ('equity', 1), ('income', 4)]
+for livestock value chains Sex, age, Supply appropriate livestock breeds. Training on value chains and business case analysis Digital apps and training on use Income Knowledge and tech knowhow + number of farmers who have diversified their livelihood strategies Sex, age, level of education, Diversifying livelihood strategies Training on livelihood diversification Entrepreneurial training Knowledge Financial resources, Income generation + number of farmers who have adopted standards in their farming practices OR + number of practices farmers have adopted Sex, age, level of education, access to machinery, plot size Adhering to set standards Training Certification Knowledge Financial resources Enforcement mechanisms Selling goods at premium prices + number of farmers working in selected business models, in contract farming arrangements, processing their produce Sex, age, access to machinery, plot size Shifting mindsets toward entrepreneurship Training on Business models Contract farming,
+
+------------------------------------------------------------------------------------------
+
+[3] Synthesis_report_on_the_evidence_of_the_multifunctional_performance_of_LVB_landscape.txt | page 12 | score=7
+Matched terms: [('livelihoods', 1), ('equity', 2), ('equitable', 1), ('inclusive', 1), ('inclusion', 2)]
+between productivity, environmental stewardship, and social inclusion. Integrated governance frameworks that include stakeholders from local communities, government, and private sector are critical to unlocking these multifunctional benefits. 9. Evidence Gaps and Knowledge Limitations Despite extensive documentation, key knowledge gaps persist. Spatially explicit data on land degradation, climate vulnerability, and biodiversity trends are limited, reducing the ability to target interventions effectively. Longitudinal data assessing the impacts of agroecological, regenerative, and nature-positive interventions are scarce, constraining evaluation of multifunctional outcomes. Social indicators, particularly disaggregated data on gender and youth, are unevenly collected, making it difficult to fully capture equity impacts. Bridging these gaps will require systematic monitoring, geospatial data integration, and participatory research. 10. Implications for Vision-to-Action and Assessment Fra
+
+------------------------------------------------------------------------------------------
+
+[4] Bundled_agroecological_cacao_production_practices_fertilizer_and_sustainable_practices_training_benefits_over_200_organic_producers..txt | page 3 | score=6
+Matched terms: [('livelihoods', 2), ('equity', 1), ('inclusion', 1), ('poverty', 2)]
+ity End hunger for all and enable affordable healthy diets for the 3 billion people who do not currently have access to safe and nutritious food Impact Area 2: Poverty Reduction, Livelihoods, and Jobs ​Reduce by at least half the proportion of men, women, and children of all ages living in poverty in all its dimensions according to national definitions.​ Impact Area 3: Gender Equity, Youth, and Social Inclusion Close the gender gap in rights to economic resources, access to ownership, and control over land and natural resources for over 500 million women who work in food, land, and water systems. ​SO1: National and subnational authorities in priority countries implement policies and incentives that promote evidence-based agro-environmental solutions that enhance ecosystem services and livelihoods in rural areas.​ PART 4: Evidence, References and COM material SECONDARY CONTRIBUTORS PISA4Impact Lever 3: Climate Action EVIDENCE AND REFERENCES 1.Olle, M. 2020. Review: Bokashi technology as
+
+------------------------------------------------------------------------------------------
+
+[5] Gaps_in_the_vision_to_action_process_conducted_in_Zimbabwe.txt | page 17 | score=6
+Matched terms: [('livelihood', 1), ('livelihoods', 1), ('equitable', 1), ('inclusive', 1), ('income', 2)]
+actors. We have demonstrated engagement of stakeholders by working with male and female community members of different ages on our activities. Exposure to more equitable participation could increase the knowledge, comfort and confidence of normally inactive women and men to participate in local planning and consultative meetings. However, many women in the broader community are unlikely to engage without targeted training and efforts to make meetings more inclusive, as social norms often discourage them from speaking publicly. Additionally, presentations and documents in English exclude many community members who primarily speak Shona. Collaboration with NGOs or research institutions is needed to support local and traditional leaders in providing effective community training. The Initiative’s entry point is modelling women in leadership in the Mbire and Murehwa ALLs, which are led by mixed-gender committees. However, outside these ALLs, few women hold leadership roles due to traditiona
+
+------------------------------------------------------------------------------------------
+
+[6] Policy_engagement_report_Institutionalizing_multifunctional_landscapes_in_Mbire_District,_Zimbabwe.txt | page 3 | score=6
+Matched terms: [('livelihood', 1), ('livelihoods', 1), ('inclusive', 2), ('inclusion', 1), ('well-being', 1)]
+ement established a shared understanding of the MFL approach-an integrated framework promoting balance between agricultural production, conservation, and human well-being-and analyzed the alignment of district policies and by-laws with national frameworks such as the Environmental Management Act (Chapter 20:27), Forest Act, Parks and Wildlife Management Act, National Wetlands Policy (2022), and the National Agricultural Policy Framework (2018-2030). Participants acknowledged that while these policies exist, implementation remains fragmented due to overlapping mandates, limited enforcement capacity, and inadequate coordination. Two thematic groups deliberated on (i) Natural Resources Management and By-laws, and (ii) Cross-Cutting Enablers covering policy alignment, gender and inclusion, capacity, and financing. Key outcomes included calls to harmonize and update local by-laws; strengthen the Mbire Natural Resources Management Platform for inter- sectoral coordination; expand investment
+
+------------------------------------------------------------------------------------------
+
+[7] Synthesis_report_on_the_evidence_of_the_multifunctional_performance_of_LVB_landscape.txt | page 7 | score=6
+Matched terms: [('livelihood', 2), ('livelihoods', 1), ('poverty', 2), ('income', 1)]
+VB landscape is dominated by smallholder agriculture, with a majority of households relying on crop farming, livestock, informal trade, and wage employment for livelihoods. Poverty remains prevalent, with substantial portions of the population in Kisumu county living in informal settlements, where risks related to sanitation, climate exposure, and livelihood insecurity are elevated (GoK, 2015; Kenya Red Cross Society, 2017). Vihiga shows relatively lower inequality but still exhibits modest welfare levels and limited economic diversification. In Kakamega, Bungoma, Busia, and Siaya, agriculture remains the primary livelihood, with ~85% of the population engaged in crop and livestock production. Poverty rates range between 30–45%, with food insecurity affecting ~32% of households (KNBS, 2023). Youth unemployment is particularly high (~25–35%), and gender disparities persist in land ownership, access to credit, and decision-making (KNBS, 2022). Households often combine multiple income sou
+
+------------------------------------------------------------------------------------------
+
+[8] Understanding_behavioral_changes_towards_agroecological_transitions_A_case_study_from_Mandla,_India.txt | page 25 | score=6
+Matched terms: [('livelihood', 1), ('poverty', 1), ('income', 4)]
+24 districts, eligible for Backward Regions Grant Fund Programme support (GoI, 2006). Poverty rates exceed 40%, nutritional indicators remain concerning particularly among women and children, and outmigration for wage labor is widespread (NFHS-5, 2019-2021). Land degradation, declining soil fertility, water scarcity during non-monsoon periods, biodiversity loss, and limited market access compound agricultural challenges (CGIAR, 2024). These conditions create both necessity and opportunity for agroecological approaches that reduce external input dependence, enhance soil and water management, diversify production systems, and strengthen local food security (Debnath & Dasgupta, 2006). Mandla's agricultural systems reflect adaptation to local agro-climatic conditions and socio- cultural contexts. Traditional farming practices involved mixed cropping, intercropping legumes with cereals, crop-livestock integration, and utilization of non-timber forest products (NTFPs) for nutrition and incom
+
+------------------------------------------------------------------------------------------
+
+[9] Understanding_behavioral_changes_towards_agroecological_transitions_A_case_study_from_Mandla,_India.txt | page 42 | score=6
+Matched terms: [('livelihood', 1), ('income', 3), ('well-being', 2)]
+41 responsibilities of care. These framing positions agroecology as not only an agricultural alternative but also a protective measure for family well-being. 1. Economic Benefits- Cost Savings and Income Potential: Economic motivations were present across respondent groups, though often framed in terms of cost reduction and risk avoidance rather than profit maximisation. Farmers described agroecology as reducing dependency on external inputs: “Making compost costs nothing. Buying fertilizer costs thousands… for small farmers, this matters.” (R1) Market actors, though fewer in number, viewed agroecology through the lens of premium markets and certification challenges: “Demand exists in cities, but supply is unreliable and certification is costly.” (R22) Women involved in community nutrition gardens emphasised the significance of small but autonomous income flows: “Rs. 15,000 is small, but it is our money, controlled by us.” (R17) Overall, economic benefits were conceptualised less in te
+
+------------------------------------------------------------------------------------------
+
+[10] Beyond_yields_A_systems_approach_is_essential_for_reconciling_agriculture_and_biodiversity.txt | page 2 | score=5
+Matched terms: [('livelihoods', 1), ('equity', 2), ('wellbeing', 1), ('justice', 1)]
+industrial systems’ structural limitations, technocratic approaches could limit solutions to partial fixes and overlook alternatives rooted in sustainability, equity and resilience. We argue sustainable agriculture should be defined by its proven ability to deliver and ensure access for everyone to healthy foods, while maintaining/improving natural resources and ensuring the wellbeing of all farmers. Context-specific adaptation and continuous scientific evaluation beyond high yield or organic practices are essential, as advocated in the agroecology literature [13]. For example, agroecology prioritizes optimizing whole-farm and landscape socio-ecological principles contribu- ting to soil health, biodiversity, resource circularity, justice, equity and access to affordable, locally sourced and nutritious food [14]. Balmford et al. exhibit a paradoxical stance, acknowledging briefly the potential of ‘less capital-intensive approaches— including integrated pest management, push–pull methods
+
+------------------------------------------------------------------------------------------
+
+4. Search note
+------------------------------------------------------------------------------------------
+This output is based on keyword matching and retrieved evidence. Use it as a first-pass thematic scan.

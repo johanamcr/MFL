@@ -1,0 +1,161 @@
+CORPUS THEMATIC SUMMARY
+============================================================
+
+Top themes across the corpus:
+1. agroecology_farming: 1501
+2. investment_markets: 582
+3. evidence_data_methods: 552
+4. policy_governance_institutions: 503
+5. gender_social_inclusion: 495
+6. capacity_learning: 455
+7. biodiversity_ecosystems: 426
+8. livelihoods_equity: 297
+9. climate_resilience: 285
+10. landscapes: 265
+11. nutrition_food_systems: 244
+12. outcomes_impact: 233
+
+============================================================
+
+Top themes by document:
+
+Adoption_of_Urochloa_hybrid_improved_forage_grasses_by_farmers_within_Cambodia,_Colombia,_Kenya,_Malawi,_Malaysia,_Uganda,_Vietnam,_and_Zambia.txt
+  - agroecology_farming: 20
+  - climate_resilience: 19
+  - outcomes_impact: 9
+  - investment_markets: 8
+  - evidence_data_methods: 6
+
+Agro-silvo-pastoralism.txt
+  - agroecology_farming: 35
+  - biodiversity_ecosystems: 34
+  - climate_resilience: 19
+  - landscapes: 10
+  - outcomes_impact: 9
+
+Beyond_yields_A_systems_approach_is_essential_for_reconciling_agriculture_and_biodiversity.txt
+  - biodiversity_ecosystems: 63
+  - agroecology_farming: 59
+  - nutrition_food_systems: 21
+  - climate_resilience: 15
+  - policy_governance_institutions: 13
+
+Biocontrol.txt
+  - biodiversity_ecosystems: 51
+  - agroecology_farming: 24
+  - outcomes_impact: 17
+  - climate_resilience: 13
+  - policy_governance_institutions: 11
+
+Bundled_agroecological_cacao_production_practices_fertilizer_and_sustainable_practices_training_benefits_over_200_organic_producers..txt
+  - agroecology_farming: 33
+  - capacity_learning: 26
+  - outcomes_impact: 22
+  - gender_social_inclusion: 20
+  - climate_resilience: 15
+
+Co-development_enables_holistic_digital_traceability_of_sustainability._The_case_of_Peruvian_cocoa.txt
+  - evidence_data_methods: 80
+  - agroecology_farming: 75
+  - policy_governance_institutions: 31
+  - investment_markets: 29
+  - capacity_learning: 18
+
+Concept_note_for_identifying_features_of_public_agricultural_research_to_mainstream_agroecology_in_multifunctional_landscapes.txt
+  - agroecology_farming: 25
+  - landscapes: 13
+  - policy_governance_institutions: 8
+  - evidence_data_methods: 6
+  - nutrition_food_systems: 4
+
+Explorando_los_modelos_de_negocio_para_las_transiciones_agroecológicas_en_los_cultivos_de_cacao_y_camu_camu_en_Ucayali,_Perú.txt
+  - nutrition_food_systems: 8
+  - agroecology_farming: 4
+  - evidence_data_methods: 3
+  - investment_markets: 2
+  - policy_governance_institutions: 1
+
+Exposure_visit_of_Government_officials_to_witness_the_revitalization_of_traditional_water-harvesting_haveli_systems_at_the_Bhadokhar_Haveli_in_the_Tahrauli_cluster.txt
+  - landscapes: 17
+  - evidence_data_methods: 14
+  - policy_governance_institutions: 10
+  - biodiversity_ecosystems: 9
+  - agroecology_farming: 9
+
+From_vision_to_action_(V2A)_Advancing_sustainable_management_of_multifunctional_landscapes_in_Akole,_Maharashtra_(India).txt
+  - landscapes: 56
+  - biodiversity_ecosystems: 24
+  - policy_governance_institutions: 21
+  - climate_resilience: 17
+  - agroecology_farming: 13
+
+Gaps_in_the_vision_to_action_process_conducted_in_Zimbabwe.txt
+  - investment_markets: 181
+  - agroecology_farming: 153
+  - gender_social_inclusion: 127
+  - capacity_learning: 119
+  - evidence_data_methods: 92
+
+Minimum_tillage.txt
+  - agroecology_farming: 110
+  - biodiversity_ecosystems: 43
+  - climate_resilience: 15
+  - outcomes_impact: 9
+  - policy_governance_institutions: 5
+
+Pathways_to_Sustainable_Wheat_Business_Models_Exploring_agroecological_practices_and_investment_opportunities_in_Doyogena,_Ethiopia.txt
+  - agroecology_farming: 147
+  - investment_markets: 147
+  - evidence_data_methods: 81
+  - climate_resilience: 31
+  - livelihoods_equity: 24
+
+Policy_engagement_report_Institutionalizing_multifunctional_landscapes_in_Mbire_District,_Zimbabwe.txt
+  - policy_governance_institutions: 73
+  - biodiversity_ecosystems: 40
+  - landscapes: 37
+  - livelihoods_equity: 30
+  - gender_social_inclusion: 30
+
+Raíces_y_tubérculos_en_Ucayali_una_mirada_desde_el_método_5_celdas.txt
+  - climate_resilience: 6
+  - landscapes: 5
+  - biodiversity_ecosystems: 3
+  - agroecology_farming: 2
+  - policy_governance_institutions: 2
+
+Scientists_develop_new_digital_tools_for_enhancing_water_management_in_a_changing_climate.txt
+  - evidence_data_methods: 26
+  - landscapes: 22
+  - agroecology_farming: 18
+  - climate_resilience: 18
+  - policy_governance_institutions: 9
+
+Soils_of_ILRI’s_Kapiti_Research_Station_and_Wildlife_Conservancy.txt
+  - agroecology_farming: 5
+  - climate_resilience: 1
+  - livelihoods_equity: 0
+  - nutrition_food_systems: 0
+  - biodiversity_ecosystems: 0
+
+Synthesis_report_on_the_evidence_of_the_multifunctional_performance_of_LVB_landscape.txt
+  - agroecology_farming: 70
+  - landscapes: 58
+  - evidence_data_methods: 34
+  - livelihoods_equity: 33
+  - climate_resilience: 31
+
+Understanding_behavioral_changes_towards_agroecological_transitions_A_case_study_from_Mandla,_India.txt
+  - agroecology_farming: 642
+  - gender_social_inclusion: 220
+  - policy_governance_institutions: 199
+  - capacity_learning: 183
+  - investment_markets: 167
+
+Water_&amp;_Soil_Accelerator_Program_Training_report.txt
+  - capacity_learning: 48
+  - agroecology_farming: 42
+  - evidence_data_methods: 37
+  - gender_social_inclusion: 24
+  - outcomes_impact: 9
+

@@ -1,0 +1,84 @@
+THEME EXPLORER: Evidence, data and methods
+==========================================================================================
+
+Theme key: evidence_data_methods
+Theme terms: ['evidence', 'data', 'analysis', 'monitoring', 'evaluation', 'metrics', 'indicator', 'indicators', 'model', 'models', 'scenario', 'forecast', 'decision tools', 'assessment frameworks', 'key informant interviews', 'focus group discussions', 'digital traceability system']
+Document focus: Full corpus
+
+1. Quick reading
+------------------------------------------------------------------------------------------
+This theme is distributed across several documents, with the strongest evidence coming from Understanding_behavioral_changes_towards_agroecological_transitions_A_case_study_from_Mandla,_India.txt, Gaps_in_the_vision_to_action_process_conducted_in_Zimbabwe.txt, Co-development_enables_holistic_digital_traceability_of_sustainability._The_case_of_Peruvian_cocoa.txt.
+
+2. Top supporting documents
+------------------------------------------------------------------------------------------
+1. Understanding_behavioral_changes_towards_agroecological_transitions_A_case_study_from_Mandla,_India.txt | score=125
+2. Gaps_in_the_vision_to_action_process_conducted_in_Zimbabwe.txt | score=107
+3. Co-development_enables_holistic_digital_traceability_of_sustainability._The_case_of_Peruvian_cocoa.txt | score=86
+4. Pathways_to_Sustainable_Wheat_Business_Models_Exploring_agroecological_practices_and_investment_opportunities_in_Doyogena,_Ethiopia.txt | score=85
+5. Synthesis_report_on_the_evidence_of_the_multifunctional_performance_of_LVB_landscape.txt | score=40
+
+3. Key evidence excerpts
+------------------------------------------------------------------------------------------
+[1] Co-development_enables_holistic_digital_traceability_of_sustainability._The_case_of_Peruvian_cocoa.txt | page 3 | score=21
+Matched terms: [('data', 12), ('analysis', 1), ('metrics', 5), ('digital traceability system', 3)]
+ing premium sustainability markets, new digital technologies for tracing agricultural commodities from farm to fork have emerged. These systems allow eliciting data from farmers – for example, diverse agroecological metrics – using handheld devices, and enable subsequent tracking of batches of cocoa along the value chain. Digitalized systems avoid the need for cumbersome manual data collection and digitization. Once data is entered by farmers or their organizations, downstream stakeholders, including manufacturers, retailers, or consumers, can then verify the sustainability metrics associated with the product they buy. These systems reduce the need for costly on-site audits while offering consumers reliable and nuanced insights into product sustainability. Digital traceability systems often rely on Blockchain technology, where enumerated data – for example, on the socio-environmental conditions of farm production – is stored transparently online and cannot be modified retroactively by
+
+------------------------------------------------------------------------------------------
+
+[2] Gaps_in_the_vision_to_action_process_conducted_in_Zimbabwe.txt | page 27 | score=18
+Matched terms: [('indicator', 3), ('indicators', 15)]
+They believe that this additional knowledge would enhance their contributions to smallholder agriculture. 8. MEASUREMENT The V2A identified local indicators to track transitions in the ALLs and this section assesses the proposed output and impact indicators. Table 4: Revised Output indicators and Error! Reference source not found. show the link between indicators and the specific outcomes, outputs and drivers they measure. During this time, the Initiative has not started measuring the ALLs progress against the V2A. In Table 4, most output indicators target farming excellence and market access, with four indicators each, while the other three target behaviours are represented by one indicator each. A cross-cutting training indicator addresses outcomes linked to all five target behaviours, demonstrating a commitment to capacity building across various actions. However, six outcomes lack corresponding indicators: providing oversight/support, offering training for income-gene
+
+------------------------------------------------------------------------------------------
+
+[3] Synthesis_report_on_the_evidence_of_the_multifunctional_performance_of_LVB_landscape.txt | page 12 | score=18
+Matched terms: [('evidence', 4), ('data', 5), ('monitoring', 2), ('evaluation', 1), ('indicators', 4), ('assessment frameworks', 2)]
+rnance frameworks that include stakeholders from local communities, government, and private sector are critical to unlocking these multifunctional benefits. 9. Evidence Gaps and Knowledge Limitations Despite extensive documentation, key knowledge gaps persist. Spatially explicit data on land degradation, climate vulnerability, and biodiversity trends are limited, reducing the ability to target interventions effectively. Longitudinal data assessing the impacts of agroecological, regenerative, and nature-positive interventions are scarce, constraining evaluation of multifunctional outcomes. Social indicators, particularly disaggregated data on gender and youth, are unevenly collected, making it difficult to fully capture equity impacts. Bridging these gaps will require systematic monitoring, geospatial data integration, and participatory research. 10. Implications for Vision-to-Action and Assessment Frameworks The synthesized evidence provides a strong foundation for the Vision-to-Action
+
+------------------------------------------------------------------------------------------
+
+[4] Gaps_in_the_vision_to_action_process_conducted_in_Zimbabwe.txt | page 8 | score=15
+Matched terms: [('data', 10), ('analysis', 3), ('key informant interviews', 2)]
+Methodology To address the four objectives a qualitative research approach was adopted and carried out in five steps: a desk review of project documents, data collection in Mbire and Murehwa, data collection from the AE-I team, behaviour change data analysis, and MEL plan development. Step 1: Initial Desk Review and Analysis of target behaviours and actors A desk review and document analysis were conducted to address Objective 1. Between 2021 and 2024, the Agroecology Initiative (AE-I) Zimbabwe team produced over 40 reports, blogs, and articles. The Vision to Action (V2A) report (Sibanda et al., 2024) outlines the visions of the ALL and serves as a blueprint for agroecology transitions. It identifies activities, actors, and gaps between the stated vision and implemented activities. This study utilizes the V2A report to map activity, actor, and behaviour gaps essential for achieving a sustainable agroecology transition. Guided by the V2A, the focus behaviours were categorized into
+
+------------------------------------------------------------------------------------------
+
+[5] Co-development_enables_holistic_digital_traceability_of_sustainability._The_case_of_Peruvian_cocoa.txt | page 8 | score=13
+Matched terms: [('data', 5), ('monitoring', 2), ('metrics', 4), ('indicator', 1), ('indicators', 1)]
+of an effective traceability tool: consideration of the needs and motivations of all potential users, the use of a compact, yet holistic, set of agroecological metrics, and iteratively testing the tool with end-users. Iterative agile programming and testing cycles proved essential for contextualization and applicability. 4. Identify skills and infrastructure requirements for strengthening capacities for using digital technologies This activity sought to identify digital literacy and technological infrastructure gaps in the context of Vietnam rice production in order to contextualize the system to current conditions and orient activities that contribute to closing the gap (e.g. providing smartphones or training to technical staff). 5. Setting financial and incentives schemes Investments may come from different sources (e.g. increased sales or bonus prices for agroecological products). It is important not to place the burden on farmers and cooperatives. Compliance with the EU regulation
+
+------------------------------------------------------------------------------------------
+
+[6] Pathways_to_Sustainable_Wheat_Business_Models_Exploring_agroecological_practices_and_investment_opportunities_in_Doyogena,_Ethiopia.txt | page 16 | score=13
+Matched terms: [('analysis', 2), ('evaluation', 4), ('model', 6), ('models', 1)]
+Link Methodology: Business Canvas Model The Canvas methodology, rooted in the Business Model Canvas developed by Alexander Osterwalder and Yves Pigneur (Osterwalder & Pigneur, 2010) offers a streamlined approach to visualizing and designing business models. This methodology facilitates proactive problem-solving by aiding in the early recognition of potential challenges. It shows how each element of a business structure interconnects and contributes to the overall business objective (Osterwalder & Pigneur, 2010). This study uses the Canvas tool considering the Link methodology toolkit to understand the business model of wheat producers and their current clients to identify gaps and synergies to promote agroecological transitions. Link Methodology allows the analysis of a business from a general perspective to understand how it works and discover new opportunities for innovation. This is based on applying a participatory toolkit that includes the value chain map, Busines
+
+------------------------------------------------------------------------------------------
+
+[7] Co-development_enables_holistic_digital_traceability_of_sustainability._The_case_of_Peruvian_cocoa.txt | page 5 | score=12
+Matched terms: [('data', 7), ('metrics', 5)]
+armers’ family, conservation practices, land tenure, and agricultural practices (soil protection, fertilization, plagues and diseases control, etc.). 2. Single data collection interface To avoid duplication of survey efforts, all data collection paper-based forms of the cooperative were integrated into one single digital interface, generating a single digital survey. Digitizing the data collection by cooperative technicians was expected to minimize drudgery and increase data quality. 3. Comprehensive data on agroecological metrics To provide information for multiple dimensions of agroecology, a holistic, yet simple, set of metrics was agreed between partners (Figure 3). The iterative and collaborative selection process followed four key considerations: a) Comprehensiveness: a broad diversity of agroecology dimensions is covered, b) Reliability: the metrics should not require in-depth training or advanced skills for accurate assessment, c) Time efficiency: the data collection should req
+
+------------------------------------------------------------------------------------------
+
+[8] Co-development_enables_holistic_digital_traceability_of_sustainability._The_case_of_Peruvian_cocoa.txt | page 7 | score=12
+Matched terms: [('data', 4), ('analysis', 1), ('monitoring', 2), ('metrics', 3), ('indicators', 2)]
+For example, in the case of Kaoka, the translation process mainly involved getting this company familiar with agroecology and monitoring systems. The translation process facilitated contextualization and the interpretation of the digital system by the cooperative. 4.2. Mediation This step involves allowing representation of multiple interests and perspectives held by the different parties. It also entails addressing differences and mechanisms of conflict resolution. The mediation process in this study consisted of understanding the diverging expectations of the participants and incorporating them into the system. This was done through one-to-one and multilateral meetings. The working conditions in the field created challenges for the cooperative and produced friction and discontinuity in the process. For example, cacao farms are widely dispersed, the cooperative is understaffed, and road infrastructure is poor. Additionally, the cooperative has priorit
+
+------------------------------------------------------------------------------------------
+
+[9] Understanding_behavioral_changes_towards_agroecological_transitions_A_case_study_from_Mandla,_India.txt | page 90 | score=11
+Matched terms: [('data', 5), ('analysis', 3), ('evaluation', 3)]
+ompliance with good scientific practice, if necessary, separately by chapter of the work Development and conception of the research project None Collection and evaluation of literature sources 2, 3 Used for paraphrasing and clarifying terminology in the literature review (Chapter 2) and for understanding complex concepts where needed. All literature sources were independently identified, read, critically evaluated, and cited by me. Elaboration, collection and/or procurement of data 1, 2, 3 used to assist with translation support and clarification of terminology during qualitative data interpretation, particularly when relating empirical findings to the ACT framework in Chapters 5 and 6. Processing of data 1, 4 AI systems were used for linguistic support during verbatim translation of interview excerpts, in conjunction with a human field translator, to improve English phrasing without altering meaning. Selection of methodology None Programming 1,4 Used for clarifying the use of certain
+
+------------------------------------------------------------------------------------------
+
+[10] Gaps_in_the_vision_to_action_process_conducted_in_Zimbabwe.txt | page 10 | score=10
+Matched terms: [('monitoring', 1), ('indicator', 2), ('indicators', 6), ('model', 1)]
+Potential solutions to address the gaps were proposed. Step 5: Assessment of the Vision to Action monitoring indicators The output and impact indicators in the V2A’s MEL plan were reviewed to identify specific outcomes, outputs, and drivers relevant for measuring Objective 4. Each indicator was analysed by examining its description and its connection to the transition pathways. If an indicator did not directly align with specific aspects of the pathways, additional outcomes, outputs, and drivers were proposed. Literature was used to refine the output indicators, including further measures for attendance and comprehension of material, as well as criteria for disaggregating outcome indicators. The MEL plan design was based on the output and impact indicators developed for the V2A. Using these indicators, a MEL plan was created, proposing tools for measurement, measurement frequency, and six types of reports to be generated as
+
+------------------------------------------------------------------------------------------
+
+4. Search note
+------------------------------------------------------------------------------------------
+This output is based on keyword matching and retrieved evidence. Use it as a first-pass thematic scan.

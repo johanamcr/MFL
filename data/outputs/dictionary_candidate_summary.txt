@@ -1,0 +1,746 @@
+DICTIONARY EXPANSION SUMMARY
+======================================================================
+
+Top candidate words across the corpus
+----------------------------------------------------------------------
+agroecological: 412
+las: 360
+are: 343
+farmers: 340
+practices: 318
+systems: 290
+food: 269
+que: 269
+actors: 265
+agroecology: 262
+los: 247
+cgiar: 245
+variedades: 239
+change: 237
+were: 233
+management: 231
+yuca: 231
+women: 230
+soil: 225
+para: 225
+knowledge: 222
+research: 218
+local: 218
+agricultural: 218
+agriculture: 203
+social: 198
+production: 197
+support: 195
+market: 192
+water: 191
+farming: 183
+wheat: 176
+development: 175
+was: 174
+por: 173
+con: 172
+land: 171
+community: 169
+sustainable: 168
+del: 163
+adoption: 162
+como: 161
+una: 159
+key: 158
+training: 157
+collective: 156
+not: 155
+resource: 150
+but: 148
+system: 145
+
+Top candidate bigrams across the corpus
+----------------------------------------------------------------------
+agroecological practices: 93
+agroecological transitions: 80
+raíces tubérculos: 68
+collective action: 65
+las variedades: 61
+food security: 58
+opportunity spaces: 57
+private sector: 56
+método celdas: 53
+ucayali una: 52
+tubérculos ucayali: 51
+una mirada: 51
+mirada desde: 51
+desde método: 51
+food systems: 50
+climate change: 49
+resource management: 49
+cgiar raíces: 49
+act framework: 47
+ecosystem services: 46
+multifunctional landscapes: 44
+behavioral change: 44
+bioversity international: 42
+agroecological transition: 42
+value chain: 41
+las comunidades: 41
+natural resource: 40
+minimum tillage: 39
+las celdas: 39
+market access: 37
+food system: 36
+hogares area: 36
+value chains: 34
+natural resources: 33
+behaviour change: 33
+celda celda: 33
+actions outline: 33
+outline above: 33
+soil health: 32
+sex age: 31
+biological control: 30
+business model: 30
+madhya pradesh: 30
+civil society: 29
+wheat production: 29
+celdas cgiar: 29
+yuca amarilla: 29
+business models: 28
+análisis las: 28
+development partners: 27
+
+Top candidate trigrams across the corpus
+----------------------------------------------------------------------
+raíces tubérculos ucayali: 51
+tubérculos ucayali una: 51
+ucayali una mirada: 51
+una mirada desde: 51
+mirada desde método: 51
+desde método celdas: 51
+cgiar raíces tubérculos: 49
+actions outline above: 33
+natural resource management: 31
+método celdas cgiar: 28
+hogares area hogares: 27
+area hogares area: 27
+análisis las celdas: 26
+bioversity international ciat: 25
+alliance bioversity international: 23
+civil society organizations: 22
+celda celda celda: 22
+tabla análisis las: 20
+las celdas comunidad: 20
+key informant interviews: 17
+focus group discussions: 16
+contributing agroecological changes: 16
+agroecological changes mandla: 16
+international center tropical: 14
+center tropical agriculture: 14
+tropical agriculture ciat: 14
+sustainable food systems: 14
+food security nutrition: 13
+pathways sustainable wheat: 13
+sustainable wheat business: 13
+wheat business models: 13
+business models exploring: 13
+models exploring agroecological: 13
+exploring agroecological practices: 13
+agroecological practices investment: 13
+practices investment opportunities: 13
+investment opportunities doyogena: 13
+opportunities doyogena ethiopia: 13
+participantes grupos focales: 13
+grupos focales variedades: 13
+focales variedades presentes: 13
+variedades presentes por: 13
+presentes por cultivo: 13
+por cultivo variedades: 13
+cultivo variedades perdidas: 13
+variedades perdidas por: 13
+perdidas por cultivo: 13
+community nutrition gardens: 13
+take actions outline: 13
+international food policy: 12
+
+======================================================================
+
+Top terms by document
+
+Adoption_of_Urochloa_hybrid_improved_forage_grasses_by_farmers_within_Cambodia,_Colombia,_Kenya,_Malawi,_Malaysia,_Uganda,_Vietnam,_and_Zambia.txt
+  Top words:
+    - burkart: 33
+    - adoption: 31
+    - urochloa: 28
+    - cgiar: 25
+    - forage: 20
+    - countries: 19
+    - saaf: 18
+    - hybrids: 18
+    - hybrid: 16
+    - africa: 15
+  Top bigrams:
+    - urochloa hybrids: 14
+    - urochloa hybrid: 13
+    - saaf countries: 11
+    - cambodia colombia: 7
+    - colombia kenya: 7
+    - kenya malawi: 7
+    - malawi malaysia: 7
+    - malaysia uganda: 7
+  Top trigrams:
+    - cambodia colombia kenya: 7
+    - colombia kenya malawi: 7
+    - kenya malawi malaysia: 7
+    - malawi malaysia uganda: 7
+    - malaysia uganda vietnam: 7
+    - uganda vietnam zambia: 7
+
+Agro-silvo-pastoralism.txt
+  Top words:
+    - systems: 35
+    - agro-silvo-pastoralism: 29
+    - vol: 25
+    - agroforestry: 23
+    - land: 16
+    - note: 14
+    - management: 14
+    - agriculture: 13
+    - system: 12
+    - are: 12
+  Top bigrams:
+    - note agro-silvo-pastoralism: 8
+    - agroforestry systems: 7
+    - agro-silvo-pastoral systems: 6
+    - nature loss: 5
+    - land management: 5
+    - climate change: 5
+    - ecosystem services: 5
+    - agro-silvo-pastoralism cgiar: 4
+  Top trigrams:
+    - note agro-silvo-pastoralism cgiar: 4
+    - cgiar note agro-silvo-pastoralism: 4
+    - agro-silvo pastoral systems: 3
+    - intensive livestock systems: 2
+    - rotational grazing organic: 2
+    - grazing organic agriculture: 2
+
+Beyond_yields_A_systems_approach_is_essential_for_reconciling_agriculture_and_biodiversity.txt
+  Top words:
+    - biodiversity: 29
+    - food: 29
+    - agriculture: 23
+    - land: 20
+    - agricultural: 18
+    - systems: 15
+    - farming: 14
+    - security: 13
+    - yields: 12
+    - change: 12
+  Top bigrams:
+    - food security: 12
+    - phil trans: 6
+    - trans soc: 6
+    - ecosystem services: 6
+    - climate change: 6
+    - sustain dev: 6
+    - land sparing: 5
+    - food systems: 5
+  Top trigrams:
+    - phil trans soc: 6
+    - agron sustain dev: 5
+    - writing review editing: 4
+    - biodiversity ecosystem services: 4
+    - royalsocietypublishing journal rstb: 3
+    - journal rstb phil: 3
+
+Biocontrol.txt
+  Top words:
+    - biocontrol: 53
+    - control: 36
+    - pest: 31
+    - biological: 31
+    - vol: 21
+    - pesticides: 20
+    - management: 17
+    - biodiversity: 17
+    - are: 15
+    - note: 14
+  Top bigrams:
+    - biological control: 26
+    - note biocontrol: 9
+    - pest management: 9
+    - chemical pesticides: 7
+    - natural enemy: 6
+    - bacillus thuringiensis: 6
+    - control agents: 6
+    - nature loss: 5
+  Top trigrams:
+    - biological control agents: 6
+    - note biocontrol cgiar: 4
+    - cgiar note biocontrol: 4
+    - integrated pest management: 4
+    - pest natural enemy: 4
+    - pest manag sci: 4
+
+Bundled_agroecological_cacao_production_practices_fertilizer_and_sustainable_practices_training_benefits_over_200_organic_producers..txt
+  Top words:
+    - cacao: 18
+    - organic: 15
+    - training: 15
+    - bokashi: 15
+    - practices: 14
+    - soil: 14
+    - producers: 13
+    - available: 13
+    - agricultural: 12
+    - fertilizer: 11
+  Top bigrams:
+    - available here: 11
+    - cacao producers: 5
+    - organic fertilizer: 5
+    - climate change: 5
+    - agroecological practices: 4
+    - soil health: 4
+    - soil fertility: 4
+    - organic fertilizers: 3
+  Top trigrams:
+    - fertilizers year-round due: 2
+    - trained organic cacao: 2
+    - organic cacao producers: 2
+    - adopting innovative bundled: 2
+    - innovative bundled agroecological: 2
+    - bundled agroecological practices: 2
+
+Co-development_enables_holistic_digital_traceability_of_sustainability._The_case_of_Peruvian_cocoa.txt
+  Top words:
+    - digital: 45
+    - system: 41
+    - agroecological: 34
+    - traceability: 31
+    - sustainability: 30
+    - cocoa: 28
+    - cooperative: 25
+    - metrics: 24
+    - farmers: 20
+    - food: 20
+  Top bigrams:
+    - digital traceability: 18
+    - agroecological transitions: 17
+    - bioversity international: 15
+    - policy brief: 14
+    - international ciat: 14
+    - transitions policy: 12
+    - alliance bioversity: 12
+    - agroecological metrics: 11
+  Top trigrams:
+    - bioversity international ciat: 14
+    - agroecological transitions policy: 12
+    - alliance bioversity international: 12
+    - transitions policy brief: 11
+    - digital traceability system: 6
+    - holistic digital traceability: 5
+
+Concept_note_for_identifying_features_of_public_agricultural_research_to_mainstream_agroecology_in_multifunctional_landscapes.txt
+  Top words:
+    - research: 25
+    - nars: 17
+    - agroecology: 13
+    - cgiar: 10
+    - agricultural: 9
+    - note: 8
+    - public: 7
+    - part: 7
+    - multifunctional: 6
+    - landscapes: 6
+  Top bigrams:
+    - agricultural research: 7
+    - multifunctional landscapes: 6
+    - concept note: 5
+    - note identifying: 5
+    - identifying features: 5
+    - features public: 5
+    - public agricultural: 5
+    - research mainstream: 5
+  Top trigrams:
+    - concept note identifying: 5
+    - note identifying features: 5
+    - identifying features public: 5
+    - features public agricultural: 5
+    - public agricultural research: 5
+    - agricultural research mainstream: 5
+
+Explorando_los_modelos_de_negocio_para_las_transiciones_agroecológicas_en_los_cultivos_de_cacao_y_camu_camu_en_Ucayali,_Perú.txt
+  Top words:
+    - los: 125
+    - para: 82
+    - las: 73
+    - con: 64
+    - del: 57
+    - que: 50
+    - como: 45
+    - camu: 40
+    - productores: 34
+    - por: 34
+  Top bigrams:
+    - camu camu: 20
+    - transiciones agroecológicas: 19
+    - los productores: 17
+    - los principios: 14
+    - del suelo: 13
+    - políticas síntesis: 12
+    - las cooperativas: 12
+    - cacao camu: 11
+  Top trigrams:
+    - cacao camu camu: 11
+    - salud del suelo: 10
+    - políticas síntesis transiciones: 9
+    - síntesis transiciones agroecológicas: 9
+    - los productores cacao: 6
+    - sino que también: 6
+
+Exposure_visit_of_Government_officials_to_witness_the_revitalization_of_traditional_water-harvesting_haveli_systems_at_the_Bhadokhar_Haveli_in_the_Tahrauli_cluster.txt
+  Top words:
+    - visit: 21
+    - icrisat: 17
+    - india: 15
+    - haveli: 14
+    - management: 11
+    - land: 11
+    - interventions: 10
+    - technical: 10
+    - exposure: 9
+    - officials: 9
+  Top bigrams:
+    - exposure visit: 9
+    - bhadokhar haveli: 7
+    - resource management: 6
+    - icrisat patancheru: 6
+    - patancheru india: 6
+    - ceo director: 6
+    - director technical: 6
+    - technical experts: 6
+  Top trigrams:
+    - icrisat patancheru india: 6
+    - ceo director technical: 6
+    - director technical experts: 6
+    - technical experts slna: 6
+    - experts slna wdd: 6
+    - natural resource management: 4
+
+From_vision_to_action_(V2A)_Advancing_sustainable_management_of_multifunctional_landscapes_in_Akole,_Maharashtra_(India).txt
+  Top words:
+    - actors: 36
+    - landscape: 31
+    - cgiar: 30
+    - vision: 29
+    - research: 26
+    - participants: 26
+    - akole: 24
+    - were: 24
+    - was: 23
+    - all: 20
+  Top bigrams:
+    - multifunctional landscapes: 10
+    - participants were: 7
+    - vision action: 6
+    - introduction cgiar: 6
+    - cgiar introduction: 6
+    - system actors: 6
+    - shared vision: 5
+    - were invited: 5
+  Top trigrams:
+    - international food policy: 3
+    - food policy research: 3
+    - policy research institute: 3
+    - new delhi india: 3
+    - baif development research: 3
+    - development research foundation: 3
+
+Gaps_in_the_vision_to_action_process_conducted_in_Zimbabwe.txt
+  Top words:
+    - farmers: 116
+    - alls: 80
+    - women: 73
+    - actors: 68
+    - training: 64
+    - agroecology: 62
+    - initiative: 61
+    - community: 57
+    - knowledge: 55
+    - activities: 53
+  Top bigrams:
+    - behaviour change: 33
+    - private sector: 29
+    - sex age: 29
+    - development partners: 22
+    - mbire murehwa: 21
+    - financial resources: 21
+    - market access: 18
+    - livestock production: 17
+  Top trigrams:
+    - key informant interviews: 15
+    - natural resource management: 14
+    - ministry women affairs: 10
+    - field days exchange: 9
+    - days exchange visits: 9
+    - ecosystem services disservices: 9
+
+Minimum_tillage.txt
+  Top words:
+    - tillage: 66
+    - soil: 63
+    - minimum: 40
+    - vol: 23
+    - practice: 22
+    - are: 21
+    - agriculture: 19
+    - conservation: 18
+    - note: 16
+    - practices: 16
+  Top bigrams:
+    - minimum tillage: 39
+    - soil tillage: 11
+    - conservation agriculture: 10
+    - res vol: 10
+    - note minimum: 9
+    - tillage res: 9
+    - soil organic: 7
+    - nature loss: 5
+  Top trigrams:
+    - note minimum tillage: 9
+    - soil tillage res: 9
+    - tillage res vol: 9
+    - minimum tillage cgiar: 4
+    - cgiar note minimum: 4
+    - soil organic carbon: 4
+
+Pathways_to_Sustainable_Wheat_Business_Models_Exploring_agroecological_practices_and_investment_opportunities_in_Doyogena,_Ethiopia.txt
+  Top words:
+    - wheat: 170
+    - producers: 78
+    - practices: 77
+    - agroecological: 74
+    - are: 67
+    - cooperative: 66
+    - business: 64
+    - production: 55
+    - ethiopia: 51
+    - key: 41
+  Top bigrams:
+    - agroecological practices: 42
+    - wheat production: 29
+    - business model: 27
+    - wheat producers: 19
+    - business models: 17
+    - bioversity international: 17
+    - sustainable wheat: 16
+    - wheat business: 14
+  Top trigrams:
+    - pathways sustainable wheat: 13
+    - sustainable wheat business: 13
+    - wheat business models: 13
+    - business models exploring: 13
+    - models exploring agroecological: 13
+    - exploring agroecological practices: 13
+
+Policy_engagement_report_Institutionalizing_multifunctional_landscapes_in_Mbire_District,_Zimbabwe.txt
+  Top words:
+    - management: 39
+    - policy: 29
+    - local: 27
+    - mfl: 26
+    - district: 23
+    - environmental: 22
+    - by-laws: 21
+    - governance: 20
+    - engagement: 19
+    - natural: 18
+  Top bigrams:
+    - natural resources: 14
+    - resource management: 11
+    - multifunctional landscapes: 10
+    - resources management: 10
+    - act chapter: 9
+    - management act: 8
+    - district development: 7
+    - parks wildlife: 7
+  Top trigrams:
+    - natural resources management: 10
+    - management act chapter: 6
+    - mbire natural resources: 6
+    - parks wildlife management: 5
+    - resources management committee: 5
+    - sustainable resource management: 5
+
+Raíces_y_tubérculos_en_Ucayali_una_mirada_desde_el_método_5_celdas.txt
+  Top words:
+    - las: 286
+    - variedades: 239
+    - yuca: 231
+    - que: 219
+    - para: 142
+    - por: 138
+    - una: 130
+    - los: 121
+    - comunidad: 118
+    - como: 115
+  Top bigrams:
+    - raíces tubérculos: 68
+    - las variedades: 61
+    - método celdas: 53
+    - tubérculos ucayali: 51
+    - ucayali una: 51
+    - una mirada: 51
+    - mirada desde: 51
+    - desde método: 51
+  Top trigrams:
+    - raíces tubérculos ucayali: 51
+    - tubérculos ucayali una: 51
+    - ucayali una mirada: 51
+    - una mirada desde: 51
+    - mirada desde método: 51
+    - desde método celdas: 51
+
+Scientists_develop_new_digital_tools_for_enhancing_water_management_in_a_changing_climate.txt
+  Top words:
+    - water: 25
+    - management: 14
+    - climate: 14
+    - resource: 11
+    - landscape: 10
+    - tool: 10
+    - icrisat: 9
+    - land: 8
+    - are: 8
+    - irrigation: 8
+  Top bigrams:
+    - natural resource: 6
+    - principal scientist: 6
+    - resource management: 5
+    - nrm tool: 4
+    - changing climate: 3
+    - land are: 3
+    - cgiar multifunctional: 3
+    - water land: 3
+  Top trigrams:
+    - natural resource management: 5
+    - multifunctional landscapes science: 3
+    - water land are: 2
+    - cargele masso principal: 2
+    - masso principal scientist: 2
+    - principal scientist ilri: 2
+
+Soils_of_ILRI’s_Kapiti_Research_Station_and_Wildlife_Conservancy.txt
+  Top words:
+    - pss-: 17
+    - clay: 14
+    - profile: 14
+    - moderately: 13
+    - drained: 12
+    - dark: 12
+    - deep: 9
+    - sodic: 9
+    - magnesic: 9
+    - sandy: 9
+  Top bigrams:
+    - profile profile: 13
+    - well drained: 8
+    - magnesic pss-: 7
+    - sandy clay: 7
+    - pss- pss-: 7
+    - drained deep: 6
+    - extremely saline: 5
+    - deep dark: 5
+  Top trigrams:
+    - profile profile profile: 12
+    - pss- pss- pss-: 6
+    - moderately well drained: 5
+    - pellic vertisol magnesic: 4
+    - well drained deep: 4
+    - drained deep dark: 4
+
+Synthesis_report_on_the_evidence_of_the_multifunctional_performance_of_LVB_landscape.txt
+  Top words:
+    - landscape: 40
+    - kenya: 26
+    - soil: 26
+    - lvb: 25
+    - performance: 24
+    - food: 21
+    - economic: 20
+    - climate: 18
+    - social: 17
+    - western: 17
+  Top bigrams:
+    - lvb landscape: 21
+    - western kenya: 17
+    - lake victoria: 13
+    - performance lvb: 11
+    - food insecurity: 10
+    - climate change: 8
+    - assessment frameworks: 6
+    - victoria basin: 6
+  Top trigrams:
+    - performance lvb landscape: 10
+    - lake victoria basin: 6
+    - agronomic economic environmental: 4
+    - economic environmental social: 4
+    - kakamega bungoma busia: 4
+    - kenya red cross: 4
+
+Understanding_behavioral_changes_towards_agroecological_transitions_A_case_study_from_Mandla,_India.txt
+  Top words:
+    - agroecological: 262
+    - actors: 154
+    - agroecology: 151
+    - collective: 142
+    - practices: 138
+    - behavioral: 126
+    - change: 126
+    - were: 124
+    - women: 115
+    - knowledge: 114
+  Top bigrams:
+    - collective action: 61
+    - opportunity spaces: 57
+    - act framework: 47
+    - behavioral change: 44
+    - agroecological practices: 43
+    - agroecological transitions: 42
+    - agroecological transition: 38
+    - actions outline: 33
+  Top trigrams:
+    - actions outline above: 33
+    - civil society organizations: 17
+    - contributing agroecological changes: 16
+    - agroecological changes mandla: 16
+    - community nutrition gardens: 13
+    - take actions outline: 13
+
+Water_&amp;_Soil_Accelerator_Program_Training_report.txt
+  Top words:
+    - training: 33
+    - participants: 32
+    - seed: 27
+    - management: 25
+    - cimmyt: 21
+    - legume: 20
+    - demonstration: 18
+    - field: 18
+    - basin: 17
+    - tlc: 16
+  Top bigrams:
+    - legume seed: 17
+    - basin digger: 13
+    - seed multiplication: 8
+    - afap pelum: 7
+    - ministry agriculture: 7
+    - wsa mega: 7
+    - mazvita chiduwa: 6
+    - day october: 6
+  Top trigrams:
+    - legume seed multiplication: 7
+    - msekera research station: 6
+    - afap pelum ministry: 6
+    - pelum ministry agriculture: 6
+    - water soil accelerator: 5
+    - tlc afap pelum: 5
+

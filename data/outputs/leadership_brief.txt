@@ -1,0 +1,231 @@
+LEADERSHIP BRIEF – MULTIFUNCTIONAL LANDSCAPES DOCUMENT CORPUS
+================================================================================
+
+1. Executive takeaway
+--------------------------------------------------------------------------------
+This document set appears to combine two main layers of reporting. First, a programmatic-strategic layer focused on landscapes, governance, biodiversity, investment, and enabling conditions. Second, a technical-evidence layer focused on agroecology, outcomes, evidence generation, and learning/capacity support.
+
+2. Most visible thematic areas in the corpus (raw volume)
+--------------------------------------------------------------------------------
+1. Agroecology and farming systems: 1501
+2. Investment, markets and business models: 582
+3. Evidence, data and methods: 552
+4. Policy, governance and institutions: 503
+5. Gender and social inclusion: 495
+
+3. Most intense themes after normalization (mentions per 1000 words)
+--------------------------------------------------------------------------------
+1. Agroecology and farming systems: 12.302
+2. Evidence, data and methods: 5.518
+3. Biodiversity and ecosystems: 5.335
+4. Landscapes and territorial approaches: 4.536
+5. Policy, governance and institutions: 4.165
+
+4. Less visible themes in this sample
+--------------------------------------------------------------------------------
+1. Landscapes and territorial approaches: 265
+2. Nutrition and food systems: 244
+3. Outcomes, impacts and theory of change: 233
+
+These areas are not absent, but they appear with lower relative visibility in the current sample.
+
+5. Document-level reading
+--------------------------------------------------------------------------------
+Adoption_of_Urochloa_hybrid_improved_forage_grasses_by_farmers_within_Cambodia,_Colombia,_Kenya,_Malawi,_Malaysia,_Uganda,_Vietnam,_and_Zambia.txt
+  Type: Technical / evidence-oriented
+  Top themes:
+    - Agroecology and farming systems: 6.564
+    - Climate and resilience: 6.236
+    - Outcomes, impacts and theory of change: 2.954
+    - Investment, markets and business models: 2.626
+    - Evidence, data and methods: 1.969
+
+Agro-silvo-pastoralism.txt
+  Type: Technical / practice-oriented
+  Top themes:
+    - Agroecology and farming systems: 11.298
+    - Biodiversity and ecosystems: 10.975
+    - Climate and resilience: 6.133
+    - Landscapes and territorial approaches: 3.228
+    - Outcomes, impacts and theory of change: 2.905
+
+Beyond_yields_A_systems_approach_is_essential_for_reconciling_agriculture_and_biodiversity.txt
+  Type: Technical / practice-oriented
+  Top themes:
+    - Biodiversity and ecosystems: 17.827
+    - Agroecology and farming systems: 16.695
+    - Nutrition and food systems: 5.942
+    - Climate and resilience: 4.244
+    - Policy, governance and institutions: 3.679
+
+Biocontrol.txt
+  Type: Technical / evidence-oriented
+  Top themes:
+    - Biodiversity and ecosystems: 15.357
+    - Agroecology and farming systems: 7.227
+    - Outcomes, impacts and theory of change: 5.119
+    - Climate and resilience: 3.914
+    - Policy, governance and institutions: 3.312
+
+Bundled_agroecological_cacao_production_practices_fertilizer_and_sustainable_practices_training_benefits_over_200_organic_producers..txt
+  Type: Technical / evidence-oriented
+  Top themes:
+    - Agroecology and farming systems: 16.82
+    - Capacity, learning and technical assistance: 13.252
+    - Outcomes, impacts and theory of change: 11.213
+    - Gender and social inclusion: 10.194
+    - Climate and resilience: 7.645
+
+Co-development_enables_holistic_digital_traceability_of_sustainability._The_case_of_Peruvian_cocoa.txt
+  Type: Technical / evidence-oriented
+  Top themes:
+    - Evidence, data and methods: 15.432
+    - Agroecology and farming systems: 14.468
+    - Policy, governance and institutions: 5.98
+    - Investment, markets and business models: 5.594
+    - Capacity, learning and technical assistance: 3.472
+
+Concept_note_for_identifying_features_of_public_agricultural_research_to_mainstream_agroecology_in_multifunctional_landscapes.txt
+  Type: Programmatic / strategic
+  Top themes:
+    - Agroecology and farming systems: 24.178
+    - Landscapes and territorial approaches: 12.573
+    - Policy, governance and institutions: 7.737
+    - Evidence, data and methods: 5.803
+    - Nutrition and food systems: 3.868
+
+Explorando_los_modelos_de_negocio_para_las_transiciones_agroecológicas_en_los_cultivos_de_cacao_y_camu_camu_en_Ucayali,_Perú.txt
+  Type: Technical / evidence-oriented
+  Top themes:
+    - Nutrition and food systems: 1.483
+    - Agroecology and farming systems: 0.742
+    - Evidence, data and methods: 0.556
+    - Investment, markets and business models: 0.371
+    - Policy, governance and institutions: 0.185
+
+Exposure_visit_of_Government_officials_to_witness_the_revitalization_of_traditional_water-harvesting_haveli_systems_at_the_Bhadokhar_Haveli_in_the_Tahrauli_cluster.txt
+  Type: Programmatic / strategic
+  Top themes:
+    - Landscapes and territorial approaches: 9.403
+    - Evidence, data and methods: 7.743
+    - Policy, governance and institutions: 5.531
+    - Biodiversity and ecosystems: 4.978
+    - Agroecology and farming systems: 4.978
+
+From_vision_to_action_(V2A)_Advancing_sustainable_management_of_multifunctional_landscapes_in_Akole,_Maharashtra_(India).txt
+  Type: Programmatic / strategic
+  Top themes:
+    - Landscapes and territorial approaches: 13.149
+    - Biodiversity and ecosystems: 5.635
+    - Policy, governance and institutions: 4.931
+    - Climate and resilience: 3.992
+    - Agroecology and farming systems: 3.052
+
+Gaps_in_the_vision_to_action_process_conducted_in_Zimbabwe.txt
+  Type: Technical / practice-oriented
+  Top themes:
+    - Investment, markets and business models: 12.866
+    - Agroecology and farming systems: 10.876
+    - Gender and social inclusion: 9.028
+    - Capacity, learning and technical assistance: 8.459
+    - Evidence, data and methods: 6.54
+
+Minimum_tillage.txt
+  Type: Technical / practice-oriented
+  Top themes:
+    - Agroecology and farming systems: 35.576
+    - Biodiversity and ecosystems: 13.907
+    - Climate and resilience: 4.851
+    - Outcomes, impacts and theory of change: 2.911
+    - Policy, governance and institutions: 1.617
+
+Pathways_to_Sustainable_Wheat_Business_Models_Exploring_agroecological_practices_and_investment_opportunities_in_Doyogena,_Ethiopia.txt
+  Type: Technical / evidence-oriented
+  Top themes:
+    - Agroecology and farming systems: 14.14
+    - Investment, markets and business models: 14.14
+    - Evidence, data and methods: 7.791
+    - Climate and resilience: 2.982
+    - Livelihoods, equity and inclusion: 2.309
+
+Policy_engagement_report_Institutionalizing_multifunctional_landscapes_in_Mbire_District,_Zimbabwe.txt
+  Type: Programmatic / strategic
+  Top themes:
+    - Policy, governance and institutions: 20.857
+    - Biodiversity and ecosystems: 11.429
+    - Landscapes and territorial approaches: 10.571
+    - Livelihoods, equity and inclusion: 8.571
+    - Gender and social inclusion: 8.571
+
+Raíces_y_tubérculos_en_Ucayali_una_mirada_desde_el_método_5_celdas.txt
+  Type: Mixed
+  Top themes:
+    - Climate and resilience: 0.371
+    - Landscapes and territorial approaches: 0.31
+    - Biodiversity and ecosystems: 0.186
+    - Agroecology and farming systems: 0.124
+    - Policy, governance and institutions: 0.124
+
+Scientists_develop_new_digital_tools_for_enhancing_water_management_in_a_changing_climate.txt
+  Type: Technical / evidence-oriented
+  Top themes:
+    - Evidence, data and methods: 19.593
+    - Landscapes and territorial approaches: 16.579
+    - Agroecology and farming systems: 13.564
+    - Climate and resilience: 13.564
+    - Policy, governance and institutions: 6.782
+
+Soils_of_ILRI’s_Kapiti_Research_Station_and_Wildlife_Conservancy.txt
+  Type: Technical / practice-oriented
+  Top themes:
+    - Agroecology and farming systems: 8.772
+    - Climate and resilience: 1.754
+    - Livelihoods, equity and inclusion: 0.0
+    - Nutrition and food systems: 0.0
+    - Biodiversity and ecosystems: 0.0
+
+Synthesis_report_on_the_evidence_of_the_multifunctional_performance_of_LVB_landscape.txt
+  Type: Technical / evidence-oriented
+  Top themes:
+    - Agroecology and farming systems: 20.582
+    - Landscapes and territorial approaches: 17.054
+    - Evidence, data and methods: 9.997
+    - Livelihoods, equity and inclusion: 9.703
+    - Climate and resilience: 9.115
+
+Understanding_behavioral_changes_towards_agroecological_transitions_A_case_study_from_Mandla,_India.txt
+  Type: Technical / practice-oriented
+  Top themes:
+    - Agroecology and farming systems: 18.273
+    - Gender and social inclusion: 6.262
+    - Policy, governance and institutions: 5.664
+    - Capacity, learning and technical assistance: 5.209
+    - Investment, markets and business models: 4.753
+
+Water_&amp;_Soil_Accelerator_Program_Training_report.txt
+  Type: Technical / evidence-oriented
+  Top themes:
+    - Capacity, learning and technical assistance: 15.795
+    - Agroecology and farming systems: 13.82
+    - Evidence, data and methods: 12.175
+    - Gender and social inclusion: 7.897
+    - Outcomes, impacts and theory of change: 2.962
+
+6. Initial interpretation for leadership use
+--------------------------------------------------------------------------------
+The sample suggests that Multifunctional Landscapes is being communicated not only as an environmental or biodiversity program, but as a broader transformation agenda linking landscapes, agroecological transitions, governance, investment, and evidence generation. The strongest strategic document in the sample appears to be the program framing document, while several shorter papers contribute technical or evidence-oriented support.
+
+7. Caveats
+--------------------------------------------------------------------------------
+- This is a term-frequency based profile, not a semantic interpretation.
+- Longer documents still matter more in raw counts, even after normalization is added as a second lens.
+- A small number of documents can distort averages.
+- Results should be interpreted as a first-pass strategic reading, not a final content evaluation.
+
+8. Suggested next questions for the tool
+--------------------------------------------------------------------------------
+- What are the main thematic areas covered by this corpus?
+- Which documents are most relevant for biodiversity / livelihoods / policy / nutrition?
+- What outcomes are most visible in the sample?
+- Which themes appear underrepresented?
+- Which documents are programmatic versus technical?

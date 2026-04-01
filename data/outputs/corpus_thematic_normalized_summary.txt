@@ -1,0 +1,177 @@
+NORMALIZED CORPUS THEMATIC SUMMARY
+======================================================================
+
+A. Top themes by raw counts across the corpus
+1. agroecology_farming: 1501
+2. investment_markets: 582
+3. evidence_data_methods: 552
+4. policy_governance_institutions: 503
+5. gender_social_inclusion: 495
+6. capacity_learning: 455
+7. biodiversity_ecosystems: 426
+8. livelihoods_equity: 297
+9. climate_resilience: 285
+10. landscapes: 265
+11. nutrition_food_systems: 244
+12. outcomes_impact: 233
+
+----------------------------------------------------------------------
+
+B. Top themes by average normalized intensity (mentions per 1000 words)
+1. agroecology_farming: 12.302
+2. evidence_data_methods: 5.518
+3. biodiversity_ecosystems: 5.335
+4. landscapes: 4.536
+5. policy_governance_institutions: 4.165
+6. climate_resilience: 3.841
+7. capacity_learning: 3.155
+8. gender_social_inclusion: 3.101
+9. investment_markets: 2.924
+10. livelihoods_equity: 2.554
+11. outcomes_impact: 2.454
+12. nutrition_food_systems: 1.594
+
+======================================================================
+
+C. Top normalized themes by document
+
+Adoption_of_Urochloa_hybrid_improved_forage_grasses_by_farmers_within_Cambodia,_Colombia,_Kenya,_Malawi,_Malaysia,_Uganda,_Vietnam,_and_Zambia.txt | total_words=3047
+  - agroecology_farming: 6.564
+  - climate_resilience: 6.236
+  - outcomes_impact: 2.954
+  - investment_markets: 2.626
+  - evidence_data_methods: 1.969
+
+Agro-silvo-pastoralism.txt | total_words=3098
+  - agroecology_farming: 11.298
+  - biodiversity_ecosystems: 10.975
+  - climate_resilience: 6.133
+  - landscapes: 3.228
+  - outcomes_impact: 2.905
+
+Beyond_yields_A_systems_approach_is_essential_for_reconciling_agriculture_and_biodiversity.txt | total_words=3534
+  - biodiversity_ecosystems: 17.827
+  - agroecology_farming: 16.695
+  - nutrition_food_systems: 5.942
+  - climate_resilience: 4.244
+  - policy_governance_institutions: 3.679
+
+Biocontrol.txt | total_words=3321
+  - biodiversity_ecosystems: 15.357
+  - agroecology_farming: 7.227
+  - outcomes_impact: 5.119
+  - climate_resilience: 3.914
+  - policy_governance_institutions: 3.312
+
+Bundled_agroecological_cacao_production_practices_fertilizer_and_sustainable_practices_training_benefits_over_200_organic_producers..txt | total_words=1962
+  - agroecology_farming: 16.82
+  - capacity_learning: 13.252
+  - outcomes_impact: 11.213
+  - gender_social_inclusion: 10.194
+  - climate_resilience: 7.645
+
+Co-development_enables_holistic_digital_traceability_of_sustainability._The_case_of_Peruvian_cocoa.txt | total_words=5184
+  - evidence_data_methods: 15.432
+  - agroecology_farming: 14.468
+  - policy_governance_institutions: 5.98
+  - investment_markets: 5.594
+  - capacity_learning: 3.472
+
+Concept_note_for_identifying_features_of_public_agricultural_research_to_mainstream_agroecology_in_multifunctional_landscapes.txt | total_words=1034
+  - agroecology_farming: 24.178
+  - landscapes: 12.573
+  - policy_governance_institutions: 7.737
+  - evidence_data_methods: 5.803
+  - nutrition_food_systems: 3.868
+
+Explorando_los_modelos_de_negocio_para_las_transiciones_agroecológicas_en_los_cultivos_de_cacao_y_camu_camu_en_Ucayali,_Perú.txt | total_words=5394
+  - nutrition_food_systems: 1.483
+  - agroecology_farming: 0.742
+  - evidence_data_methods: 0.556
+  - investment_markets: 0.371
+  - policy_governance_institutions: 0.185
+
+Exposure_visit_of_Government_officials_to_witness_the_revitalization_of_traditional_water-harvesting_haveli_systems_at_the_Bhadokhar_Haveli_in_the_Tahrauli_cluster.txt | total_words=1808
+  - landscapes: 9.403
+  - evidence_data_methods: 7.743
+  - policy_governance_institutions: 5.531
+  - biodiversity_ecosystems: 4.978
+  - agroecology_farming: 4.978
+
+From_vision_to_action_(V2A)_Advancing_sustainable_management_of_multifunctional_landscapes_in_Akole,_Maharashtra_(India).txt | total_words=4259
+  - landscapes: 13.149
+  - biodiversity_ecosystems: 5.635
+  - policy_governance_institutions: 4.931
+  - climate_resilience: 3.992
+  - agroecology_farming: 3.052
+
+Gaps_in_the_vision_to_action_process_conducted_in_Zimbabwe.txt | total_words=14068
+  - investment_markets: 12.866
+  - agroecology_farming: 10.876
+  - gender_social_inclusion: 9.028
+  - capacity_learning: 8.459
+  - evidence_data_methods: 6.54
+
+Minimum_tillage.txt | total_words=3092
+  - agroecology_farming: 35.576
+  - biodiversity_ecosystems: 13.907
+  - climate_resilience: 4.851
+  - outcomes_impact: 2.911
+  - policy_governance_institutions: 1.617
+
+Pathways_to_Sustainable_Wheat_Business_Models_Exploring_agroecological_practices_and_investment_opportunities_in_Doyogena,_Ethiopia.txt | total_words=10396
+  - agroecology_farming: 14.14
+  - investment_markets: 14.14
+  - evidence_data_methods: 7.791
+  - climate_resilience: 2.982
+  - livelihoods_equity: 2.309
+
+Policy_engagement_report_Institutionalizing_multifunctional_landscapes_in_Mbire_District,_Zimbabwe.txt | total_words=3500
+  - policy_governance_institutions: 20.857
+  - biodiversity_ecosystems: 11.429
+  - landscapes: 10.571
+  - livelihoods_equity: 8.571
+  - gender_social_inclusion: 8.571
+
+Raíces_y_tubérculos_en_Ucayali_una_mirada_desde_el_método_5_celdas.txt | total_words=16152
+  - climate_resilience: 0.371
+  - landscapes: 0.31
+  - biodiversity_ecosystems: 0.186
+  - agroecology_farming: 0.124
+  - policy_governance_institutions: 0.124
+
+Scientists_develop_new_digital_tools_for_enhancing_water_management_in_a_changing_climate.txt | total_words=1327
+  - evidence_data_methods: 19.593
+  - landscapes: 16.579
+  - agroecology_farming: 13.564
+  - climate_resilience: 13.564
+  - policy_governance_institutions: 6.782
+
+Soils_of_ILRI’s_Kapiti_Research_Station_and_Wildlife_Conservancy.txt | total_words=570
+  - agroecology_farming: 8.772
+  - climate_resilience: 1.754
+  - livelihoods_equity: 0.0
+  - nutrition_food_systems: 0.0
+  - biodiversity_ecosystems: 0.0
+
+Synthesis_report_on_the_evidence_of_the_multifunctional_performance_of_LVB_landscape.txt | total_words=3401
+  - agroecology_farming: 20.582
+  - landscapes: 17.054
+  - evidence_data_methods: 9.997
+  - livelihoods_equity: 9.703
+  - climate_resilience: 9.115
+
+Understanding_behavioral_changes_towards_agroecological_transitions_A_case_study_from_Mandla,_India.txt | total_words=35134
+  - agroecology_farming: 18.273
+  - gender_social_inclusion: 6.262
+  - policy_governance_institutions: 5.664
+  - capacity_learning: 5.209
+  - investment_markets: 4.753
+
+Water_&amp;_Soil_Accelerator_Program_Training_report.txt | total_words=3039
+  - capacity_learning: 15.795
+  - agroecology_farming: 13.82
+  - evidence_data_methods: 12.175
+  - gender_social_inclusion: 7.897
+  - outcomes_impact: 2.962
+
