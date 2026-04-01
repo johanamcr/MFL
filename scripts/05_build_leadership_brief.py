@@ -3,7 +3,7 @@
 from pathlib import Path
 import csv
 
-BASE_DIR = Path("/home/jcastillo/cgspace_outcomes_agent")
+BASE_DIR = Path(__file__).resolve().parent.parent
 OUTPUT_DIR = BASE_DIR / "data" / "outputs"
 
 INPUT_CSV = OUTPUT_DIR / "corpus_thematic_profile_normalized.csv"
