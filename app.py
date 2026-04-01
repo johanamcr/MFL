@@ -3,7 +3,8 @@
 from pathlib import Path
 import streamlit as st
 
-BASE_DIR = Path("/home/jcastillo/cgspace_outcomes_agent")
+# Ruta base relativa al repo
+BASE_DIR = Path(__file__).resolve().parent
 OUTPUT_DIR = BASE_DIR / "data" / "outputs"
 
 LEADERSHIP_BRIEF = OUTPUT_DIR / "leadership_brief.txt"
@@ -124,6 +125,45 @@ def parse_theme_file(text: str):
     return sections
 
 
+def show_theme_content(theme_label: str):
+    theme_file = OUTPUT_DIR / THEME_FILES[theme_label]
+    theme_text = read_text_file(theme_file)
+
+    if not theme_text:
+        st.warning(
+            f"The file {theme_file.name} was not found. "
+            f"Run scripts/06_theme_explorer.py for this theme first."
+        )
+        return
+
+    parsed = parse_theme_file(theme_text)
+
+    st.markdown("### Quick reading")
+    st.write(parsed["quick_reading"] if parsed["quick_reading"] else "No quick reading available.")
+
+    col1, col2 = st.columns([1, 2])
+
+    with col1:
+        st.markdown("### Top supporting documents")
+        if parsed["top_docs"]:
+            for doc in parsed["top_docs"]:
+                st.write(doc)
+        else:
+            st.write("No supporting documents found.")
+
+    with col2:
+        st.markdown("### Key evidence excerpts")
+        if parsed["evidence"]:
+            for i, ev in enumerate(parsed["evidence"][:5], start=1):
+                with st.expander(f"Excerpt {i}", expanded=(i == 1)):
+                    st.write(ev)
+        else:
+            st.write("No excerpts found.")
+
+    st.markdown("### Search note")
+    st.info(parsed["search_note"] if parsed["search_note"] else "No search note available.")
+
+
 st.set_page_config(
     page_title="CGSpace Outcomes Agent",
     layout="wide"
@@ -151,7 +191,8 @@ with tab1:
         )
     else:
         st.warning(
-            "The leadership brief was not found. Run scripts/05_build_leadership_brief.py first."
+            "The leadership brief was not found. "
+            "Run scripts/05_build_leadership_brief.py first."
         )
 
 with tab2:
@@ -162,47 +203,7 @@ with tab2:
         list(THEME_FILES.keys())
     )
 
-    theme_file = OUTPUT_DIR / THEME_FILES[selected_theme]
-    theme_text = read_text_file(theme_file)
-
-    if theme_text:
-        parsed = parse_theme_file(theme_text)
-
-        st.markdown("### Quick reading")
-        if parsed["quick_reading"]:
-            st.write(parsed["quick_reading"])
-        else:
-            st.write("No quick reading available.")
-
-        col1, col2 = st.columns([1, 2])
-
-        with col1:
-            st.markdown("### Top supporting documents")
-            if parsed["top_docs"]:
-                for doc in parsed["top_docs"]:
-                    st.write(doc)
-            else:
-                st.write("No supporting documents found.")
-
-        with col2:
-            st.markdown("### Key evidence excerpts")
-            if parsed["evidence"]:
-                for i, ev in enumerate(parsed["evidence"][:5], start=1):
-                    with st.expander(f"Excerpt {i}", expanded=(i == 1)):
-                        st.write(ev)
-            else:
-                st.write("No excerpts found.")
-
-        st.markdown("### Search note")
-        if parsed["search_note"]:
-            st.info(parsed["search_note"])
-        else:
-            st.info("No search note available.")
-
-    else:
-        st.warning(
-            f"The file {theme_file.name} was not found. Run scripts/06_theme_explorer.py for this theme first."
-        )
+    show_theme_content(selected_theme)
 
 with tab3:
     st.subheader("Suggested leadership questions")
@@ -220,25 +221,6 @@ with tab3:
     if selected_question in QUESTION_TO_THEME:
         recommended_theme = QUESTION_TO_THEME[selected_question]
         st.success(f"Recommended theme: {recommended_theme}")
-
-        theme_file = OUTPUT_DIR / THEME_FILES[recommended_theme]
-        theme_text = read_text_file(theme_file)
-
-        if theme_text:
-            parsed = parse_theme_file(theme_text)
-
-            st.markdown("### Quick reading")
-            st.write(parsed["quick_reading"] if parsed["quick_reading"] else "No quick reading available.")
-
-            st.markdown("### Top supporting documents")
-            if parsed["top_docs"]:
-                for doc in parsed["top_docs"][:5]:
-                    st.write(doc)
-            else:
-                st.write("No supporting documents found.")
-        else:
-            st.warning(
-                f"The file {theme_file.name} was not found. Run scripts/06_theme_explorer.py for this theme first."
-            )
+        show_theme_content(recommended_theme)
     else:
         st.success("Recommended tab: Corpus overview")
