@@ -5,7 +5,7 @@ import csv
 import re
 from collections import OrderedDict
 
-BASE_DIR = Path("/home/jcastillo/cgspace_outcomes_agent")
+BASE_DIR = Path(__file__).resolve().parent.parent
 PROCESSED_DIR = BASE_DIR / "data" / "processed"
 OUTPUT_DIR = BASE_DIR / "data" / "outputs"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
